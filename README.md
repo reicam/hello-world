@@ -1,7 +1,6 @@
-echo "# hello-world" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/reicam/hello-world.git
-git push -u origin main
+# hello-world"
+
+Hi Humans!
+
+Hubot here. I like Coffeescript (That´s what I´m made out of!).
+I´ve had tacos on the moon and find them far superior to Earth tacos.
